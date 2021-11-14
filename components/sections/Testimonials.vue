@@ -5,7 +5,7 @@
     class="py-16"
   >
     <h2 class="text-h4 text-md-h3 text-center font-weight-black mb-8 my-8">
-      Customer Reviews
+      Nathan & Christie
     </h2>
     <v-carousel
       cycle
@@ -13,7 +13,12 @@
       hide-delimiter-background
       hide-delimiters
     >
-      <v-carousel-item v-for="(item, i) in testimonials" :key="i" class="">
+      <v-carousel-item
+        v-for="(item, i) in testimonials"
+        :key="i"
+        :src="item.src"
+        class=""
+      >
         <v-container fill-height>
           <div style="max-width: 700px" class="mx-auto text-center">
             <v-avatar size="128" class="mb-7">
@@ -78,26 +83,31 @@ export default {
     return {
       testimonials: [
         {
+          src: 'shoot/9.jpg',
           avtar: 'person-4.jpg',
           name: 'Mario Speedwagon',
           post: 'Creative Editor of ABC LTD',
         },
         {
+          src: 'shoot/9.jpg',
           avtar: 'person-8.jpg',
           name: 'Petey Cruiser',
           post: 'CEO of Json LLC',
         },
         {
+          src: 'shoot/9.jpg',
           avtar: 'person-7.jpg',
           name: 'Anna Sthesia',
           post: 'Director of Cleaner LTD',
         },
         {
+          src: 'shoot/9.jpg',
           avtar: 'person-10.jpg',
           name: 'Paul Molive',
           post: 'Manager of Torson LTD',
         },
         {
+          src: 'shoot/9.jpg',
           avtar: 'person-9.jpg',
           name: 'Gail Forcewind',
           post: 'Human Resource Manager of Humibed LLC',

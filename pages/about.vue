@@ -72,7 +72,9 @@
           </v-col>
           <v-col cols="12" md="6" align-self="center">
             <div class="pa-lg-16 pa-md-10 px-4 py-16">
-              <h2 class="text-h3 text-center font-weight-black">Our Vision</h2>
+              <h2 class="text-h3 text-center font-weight-black">
+                Bride's Family
+              </h2>
               <h3
                 class="text-h5 text-uppercase font-weight-thin text-center my-8"
               >
@@ -103,7 +105,9 @@
           </v-col>
           <v-col cols="12" md="6" align-self="center">
             <div class="pa-lg-16 pa-md-10 px-4 py-16">
-              <h2 class="text-h3 text-center font-weight-black">Our Mission</h2>
+              <h2 class="text-h3 text-center font-weight-black">
+                Groom's Family
+              </h2>
               <h3
                 class="text-h5 text-uppercase font-weight-thin text-center my-8"
               >
@@ -138,73 +142,91 @@ export default {
     return {
       heroAlt: [
         {
-          src: 'pexels-moose-photos-1036641.jpg',
-          heading: ' About Us ',
+          src: 'shoot/14.jpg',
+          heading: ' Wedding Party ',
         },
       ],
       ourTeam: [
         {
-          name: 'John Churchill',
-          position: 'Marketing Director',
+          name: 'David Arditti',
+          position: 'Best Man',
           phone: '+1 (987) 1625346',
           email: 'john@example.com',
           photo: 'person-1.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Fiona	Ross',
-          position: 'Project Manager',
+          name: 'Janelle Yoshimoto',
+          position: 'Maid of Honor',
           phone: '+1 (987) 5894684',
           email: 'fiona@example.com',
           photo: 'person-2.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Justin	Rees',
-          position: 'VP Marketing',
+          name: 'Natalie Nakamine',
+          position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'justin@example.com',
           photo: 'person-3.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Amelia	Ogden',
-          position: 'Communication Manager',
+          name: 'Tannaz Faal',
+          position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'amelia@example.com',
           photo: 'person-4.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Sebastian Bailey',
-          position: 'Advertising Director',
+          name: 'Nan Hultgren',
+          position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'sebastian@example.com',
           photo: 'person-5.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Eric Sutton',
-          position: 'Advertising Executive',
+          name: 'Christine (CJ) Glenn',
+          position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'audrey@example.com',
           photo: 'person-6.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Xia Yen',
-          position: 'Advertising Manager',
+          name: 'Chrisha Bali',
+          position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'christian@example.com',
           photo: 'person-7.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Bernadette	Springer',
-          position: 'Employee Relations Manager',
+          name: 'Shoko Espinoza',
+          position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'bernadette@example.com',
           photo: 'person-8.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
         {
-          name: 'Elizabeth Newman',
-          position: 'Project Manager',
+          name: 'Elyse Greenberg',
+          position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'elizabeth@example.com',
           photo: 'person-9.jpg',
+          bio:
+            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
         },
       ],
     }

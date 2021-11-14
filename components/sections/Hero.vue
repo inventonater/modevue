@@ -21,7 +21,7 @@
             </div>
             <p class="mb-5">{{ carousel.subHeading }}</p>
             <v-btn :x-large="$vuetify.breakpoint.smAndUp" class="my-3 primary"
-              >Get Started</v-btn
+              >RSVP</v-btn
             >
             <span class="mx-2 my-4"></span>
             <v-btn
@@ -45,28 +45,76 @@ export default {
     return {
       carouselsData: [
         {
-          src: 'pexels-andrea-piacquadio-3884440.jpg',
-          heading: ' PROMOTE YOUR BUSINESS WITH US ',
-          subHeading:
-            'Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality. incubator seed round massmarket. buyer agile development growth hacking business-to-consumer ecosystem ',
-        },
-        {
-          src: 'pexels-peter-olexa-4012966.jpg',
+          src: 'shoot/9.jpg',
           heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU',
           subHeading:
             'Litora a interdum primis. Lectus facilisi sit cum arcu aliquam velit imperdiet sapien suspendisse at vel facilisis. Facilisis metus, curae; nibh mi orci et. Fringilla sociis magna rutrum bibendum arcu.',
         },
         {
-          src: 'pexels-thirdman-5961072.jpg',
-          heading: ' Build your website with this Theme ',
+          src: 'shoot/14.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU ',
           subHeading:
             'Tellus cum turpis natoque id justo interdum tincidunt faucibus aptent congue pellentesque. Proin luctus orci netus! Scelerisque parturient cursus donec parturient et, luctus aptent habitant aliquet felis. Sapien placerat ultricies.',
         },
         {
-          src: 'pexels-andrea-piacquadio-3830745.jpg',
+          src: 'shoot/36.jpg',
           heading: ' URNA TINCIDUNT MATTIS TORTOR ',
           subHeading:
             'Dapibus cras, ligula suspendisse potenti himenaeos mus volutpat pulvinar est facilisi. Vehicula malesuada parturient euismod litora mollis penatibus. Penatibus cum nullam facilisi enim nisi ac suspendisse. Ullamcorper ad amet netus.',
+        },
+        {
+          src: 'shoot/40.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU ',
+          subHeading:
+            'Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality. incubator seed round massmarket. buyer agile development growth hacking business-to-consumer ecosystem ',
+        },
+        {
+          src: 'shoot/51.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU',
+          subHeading:
+            'Litora a interdum primis. Lectus facilisi sit cum arcu aliquam velit imperdiet sapien suspendisse at vel facilisis. Facilisis metus, curae; nibh mi orci et. Fringilla sociis magna rutrum bibendum arcu.',
+        },
+        {
+          src: 'shoot/66.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU ',
+          subHeading:
+            'Tellus cum turpis natoque id justo interdum tincidunt faucibus aptent congue pellentesque. Proin luctus orci netus! Scelerisque parturient cursus donec parturient et, luctus aptent habitant aliquet felis. Sapien placerat ultricies.',
+        },
+        {
+          src: 'shoot/70.jpg',
+          heading: ' URNA TINCIDUNT MATTIS TORTOR ',
+          subHeading:
+            'Dapibus cras, ligula suspendisse potenti himenaeos mus volutpat pulvinar est facilisi. Vehicula malesuada parturient euismod litora mollis penatibus. Penatibus cum nullam facilisi enim nisi ac suspendisse. Ullamcorper ad amet netus.',
+        },
+        {
+          src: 'shoot/81.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU ',
+          subHeading:
+            'Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality. incubator seed round massmarket. buyer agile development growth hacking business-to-consumer ecosystem ',
+        },
+        {
+          src: 'shoot/107.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU',
+          subHeading:
+            'Litora a interdum primis. Lectus facilisi sit cum arcu aliquam velit imperdiet sapien suspendisse at vel facilisis. Facilisis metus, curae; nibh mi orci et. Fringilla sociis magna rutrum bibendum arcu.',
+        },
+        {
+          src: 'shoot/116.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU ',
+          subHeading:
+            'Tellus cum turpis natoque id justo interdum tincidunt faucibus aptent congue pellentesque. Proin luctus orci netus! Scelerisque parturient cursus donec parturient et, luctus aptent habitant aliquet felis. Sapien placerat ultricies.',
+        },
+        {
+          src: 'shoot/121.jpg',
+          heading: ' URNA TINCIDUNT MATTIS TORTOR ',
+          subHeading:
+            'Dapibus cras, ligula suspendisse potenti himenaeos mus volutpat pulvinar est facilisi. Vehicula malesuada parturient euismod litora mollis penatibus. Penatibus cum nullam facilisi enim nisi ac suspendisse. Ullamcorper ad amet netus.',
+        },
+        {
+          src: 'shoot/8.jpg',
+          heading: ' LOREM IPSUM DOLOR SIT AMET CONSEETU ',
+          subHeading:
+            'Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality. incubator seed round massmarket. buyer agile development growth hacking business-to-consumer ecosystem ',
         },
       ],
     }

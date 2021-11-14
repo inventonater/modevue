@@ -15,17 +15,18 @@
               <h2
                 class="text-h4 text-md-h3 text-center font-weight-black text-capitalize mb-4"
               >
-                callout header here
+                Friday: Rehersal Reception
               </h2>
 
               <p>
+                Come for dinner and a beer after you get into town on Friday!
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
                 diam nonummy nibh euismod tincidunt ut laoreet dolore magna
                 aliquam erat volutpat.
               </p>
             </v-col>
             <v-col align-self="center" cols="12" sm="5" class="text-center">
-              <v-btn x-large color="primary" rounded>Callout Button</v-btn>
+              <v-btn x-large color="primary" rounded>More</v-btn>
             </v-col>
           </v-row>
         </v-col>

@@ -7,7 +7,7 @@
       <v-row>
         <v-col>
           <h2 class="text-h4 text-sm-h3 text-capitalize font-weight-black mb-4">
-            Our Core Team
+            Wedding Party
           </h2>
           <p>
             Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
@@ -31,8 +31,9 @@
             <div class="text--disabled text-uppercase">
               {{ item.position }}
             </div>
-            <div class="text-h6 font-weight-black mt-8">{{ item.phone }}</div>
-            <div class="subtitle-1 mt-3">{{ item.email }}</div>
+            <!--<div class="text-h6 font-weight-black mt-8">{{ item.phone }}</div>-->
+            <!--<div class="subtitle-1 mt-3">{{ item.email }}</div>-->
+            <div class="subtitle-1 mt-3">{{ item.bio }}</div>
           </v-sheet>
         </v-col>
       </v-row>

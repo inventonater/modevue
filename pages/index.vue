@@ -6,8 +6,8 @@
         <SectionsIntro />
         <SectionsCalloutBlock />
         <SectionsFeatures />
-        <SectionsBrands />
-        <SectionsTestimonials />
+        <!--<SectionsBrands />-->
+        <!--<SectionsTestimonials />-->
       </v-col>
     </v-row>
   </section>
