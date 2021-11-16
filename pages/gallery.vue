@@ -6,15 +6,15 @@
         <v-container class="py-16">
           <v-row>
             <v-col
-              v-for="n in 120"
-              :key="n"
+              v-for="(image, index) in images"
+              :key="index"
               class="d-flex child-flex"
               cols="4"
               xl="3"
             >
+              <!--                :lazy-src="image.lazySrc"-->
               <v-img
-                :src="`https://picsum.photos/700?image=${n * 5 + 10}`"
-                :lazy-src="`https://picsum.photos/10/6?image=${n * 5 + 10}`"
+                :src="image.src"
                 aspect-ratio="1"
                 class="grey lighten-2 rounded-lg"
               >
@@ -47,6 +47,44 @@ export default {
         {
           src: 'pexels-andrea-piacquadio-3830745.jpg',
           heading: ' Gallery ',
+        },
+      ],
+      images: [
+        {
+          src: 'shoot/8.jpg',
+        },
+        {
+          src: 'shoot/9.jpg',
+        },
+        {
+          src: 'shoot/14.jpg',
+        },
+        {
+          src: 'shoot/36.jpg',
+        },
+        {
+          src: 'shoot/40.jpg',
+        },
+        {
+          src: 'shoot/51.jpg',
+        },
+        {
+          src: 'shoot/66.jpg',
+        },
+        {
+          src: 'shoot/70.jpg',
+        },
+        {
+          src: 'shoot/81.jpg',
+        },
+        {
+          src: 'shoot/107.jpg',
+        },
+        {
+          src: 'shoot/116.jpg',
+        },
+        {
+          src: 'shoot/121.jpg',
         },
       ],
     }
