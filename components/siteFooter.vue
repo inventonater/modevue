@@ -10,7 +10,7 @@
     <v-container>
       <v-divider class="mb-5"></v-divider>
       <v-row>
-        <v-col cols="12" md="7"
+        <v-col cols="12"
           ><div class="d-flex flex-wrap justify-center">
             <template v-for="(s, i) in menu">
               <a
