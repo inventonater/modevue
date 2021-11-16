@@ -114,12 +114,12 @@ export default {
         {
           icon: 'mdi-blogger',
           title: 'Travel',
-          to: '/#',
+          to: '/travel',
         },
         {
           icon: 'mdi-tools',
           title: 'Registry',
-          to: '/#',
+          to: '/registry',
         },
         // {
         //   icon: 'mdi-tools',
@@ -179,7 +179,7 @@ export default {
         {
           icon: 'mdi-tools',
           title: 'FAQs',
-          to: '/#',
+          to: '/faq',
         },
       ],
     }

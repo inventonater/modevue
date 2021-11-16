@@ -11,9 +11,7 @@
       <v-divider class="mb-5"></v-divider>
       <v-row>
         <v-col cols="12" md="7"
-          ><div
-            class="d-flex flex-wrap justify-md-start justify-center justify-md-none"
-          >
+          ><div class="d-flex flex-wrap justify-center">
             <template v-for="(s, i) in menu">
               <a
                 :key="i"
@@ -46,10 +44,13 @@ export default {
   data() {
     return {
       menu: [
-        // { text: 'Support', link: '#' },
-        // { text: 'Contact Us', link: '#' },
-        // { text: 'Disclaimer', link: '#' },
-        // { text: 'Covid-19 Operation', link: '#' },
+        { text: 'Home', link: '#' },
+        { text: 'Wedding Party', link: 'about' },
+        { text: 'Travel', link: 'travel' },
+        { text: 'Registry', link: 'registry' },
+        { text: 'Gallery', link: 'gallery' },
+        { text: 'RSVP', link: 'contact' },
+        { text: 'FAQ', link: 'faq' },
       ],
     }
   },
