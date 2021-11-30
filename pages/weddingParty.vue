@@ -149,40 +149,37 @@ export default {
       ],
       ourTeam: [
         {
-          name: 'David Arditti',
-          position: 'Best Man',
-          phone: '+1 (987) 1625346',
-          email: 'john@example.com',
-          photo: 'person-1.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
-        },
-        {
           name: 'Janelle Yoshimoto',
           position: 'Maid of Honor',
           phone: '+1 (987) 5894684',
           email: 'fiona@example.com',
           photo: 'person-2.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          bio: '',
+        },
+        {
+          name: 'David Arditti',
+          position: 'Best Man',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'arditti.jpg',
+          bio: '',
         },
         {
           name: 'Natalie Nakamine',
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'justin@example.com',
-          photo: 'person-3.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          photo: 'nakamine.jpg',
+          bio: '',
         },
+
         {
-          name: 'Tannaz Faal',
-          position: 'Bridesmaid',
-          phone: '+1 (987) 6982456',
-          email: 'amelia@example.com',
-          photo: 'person-4.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          name: 'Tony Magro',
+          position: 'Groomsman',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'magro.jpg',
+          bio: '',
         },
         {
           name: 'Nan Hultgren',
@@ -190,26 +187,33 @@ export default {
           phone: '+1 (987) 6982456',
           email: 'sebastian@example.com',
           photo: 'person-5.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          bio: '',
         },
+
         {
-          name: 'Christine (CJ) Glenn',
+          name: 'Chris Olsen',
+          position: 'Groomsman',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'olsen.jpg',
+          bio: '',
+        },
+
+        {
+          name: 'Tannaz Faal',
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
-          email: 'audrey@example.com',
-          photo: 'person-6.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          email: 'amelia@example.com',
+          photo: 'person-4.jpg',
+          bio: '',
         },
         {
-          name: 'Chrisha Bali',
-          position: 'Bridesmaid',
-          phone: '+1 (987) 6982456',
-          email: 'christian@example.com',
-          photo: 'person-7.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          name: 'Dan Adkins',
+          position: 'Groomsman',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'adkins.jpg',
+          bio: '',
         },
         {
           name: 'Shoko Espinoza',
@@ -217,24 +221,54 @@ export default {
           phone: '+1 (987) 6982456',
           email: 'bernadette@example.com',
           photo: 'person-8.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          bio: '',
         },
         {
-          name: 'Elyse Greenberg',
+          name: 'Carlos Marcano',
+          position: 'Groomsman',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'marcano.jpg',
+          bio: '',
+        },
+        {
+          name: 'Chrisha Bali',
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
-          email: 'elizabeth@example.com',
-          photo: 'person-9.jpg',
-          bio:
-            'Ut enim ad minim veniam, quis nostrud exercitation ullamco  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure  dolor in reprehenderit in voluptate velit esse cillum dolore eu',
+          email: 'christian@example.com',
+          photo: 'person-7.jpg',
+          bio: '',
+        },
+        {
+          name: 'Joe Dwyer',
+          position: 'Groomsman',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'dwyer.jpg',
+          bio: '',
+        },
+        {
+          name: 'Christine (CJ) Glenn',
+          position: 'Bridesmaid',
+          phone: '+1 (987) 6982456',
+          email: 'audrey@example.com',
+          photo: 'person-6.jpg',
+          bio: '',
+        },
+        {
+          name: 'Michael Walker',
+          position: 'Groomsman',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'walker.jpg',
+          bio: '',
         },
       ],
     }
   },
   head() {
     return {
-      title: 'About Us',
+      title: 'Wedding Party',
       meta: [
         {
           hid: 'description',

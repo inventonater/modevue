@@ -109,7 +109,7 @@ export default {
         {
           icon: 'mdi-account',
           title: 'Wedding Party',
-          to: '/about',
+          to: '/weddingParty',
         },
         {
           icon: 'mdi-blogger',
@@ -121,60 +121,15 @@ export default {
           title: 'Registry',
           to: '/registry',
         },
-        // {
-        //   icon: 'mdi-tools',
-        //   title: 'Services',
-        //   to: '/services',
-        //   submenu: [
-        //     {
-        //       title: 'Services Page',
-        //       to: '/services',
-        //     },
-        //     {
-        //       title: 'Static Websites',
-        //       to: '/#',
-        //     },
-        //     {
-        //       title: 'Mobile Applications',
-        //       to: '/#',
-        //     },
-        //     {
-        //       title: 'Corporate websites',
-        //       to: '/#',
-        //     },
-        //     {
-        //       title: 'Editorial Sites',
-        //       to: '/#',
-        //     },
-        //     {
-        //       title: 'Ecommerce and Store',
-        //       to: '/#',
-        //     },
-        //     {
-        //       title: 'Block Chain Devemopment',
-        //       to: '/#',
-        //     },
-        //   ],
-        // },
-        // {
-        //   icon: 'mdi-cash-usd',
-        //   title: 'Pricing',
-        //   to: '/pricing',
-        // },
         {
           icon: 'mdi-folder-image',
           title: 'Gallery',
           to: '/gallery',
         },
-        // {
-        //   icon: 'mdi-blogger',
-        //   title: 'Blog',
-        //   to: '/blog',
-        // },
         {
           icon: 'mdi-contacts',
           title: 'RSVP',
-          to: '/contact',
+          to: '/rsvp',
         },
         {
           icon: 'mdi-tools',

@@ -21,8 +21,8 @@
           <v-sheet class="py-12 px-6" outlined shaped>
             <v-avatar size="240"
               ><img
-                :src="`/team/${item.photo}`"
-                :lazy-src="`team/${item.photo}`"
+                :src="`/friends/${item.photo}`"
+                :lazy-src="`friends/${item.photo}`"
                 alt="John"
             /></v-avatar>
             <div class="text-h5 text-uppercase font-weight-black mt-6 mb-2">

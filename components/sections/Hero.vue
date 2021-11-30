@@ -23,7 +23,7 @@
             <p class="mb-5">{{ carousel.subHeading }}</p>
             <v-btn
               :x-large="$vuetify.breakpoint.smAndUp"
-              href="/contact"
+              href="/rsvp"
               class="my-3 primary"
               >RSVP</v-btn
             >
@@ -31,7 +31,7 @@
             <v-btn
               :x-large="$vuetify.breakpoint.smAndUp"
               text
-              href="/about"
+              href="/weddingParty"
               class="my-3"
               outlined
               ><v-icon left large color="primary">mdi-play</v-icon>Wedding

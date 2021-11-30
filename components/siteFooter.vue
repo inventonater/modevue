@@ -45,11 +45,11 @@ export default {
     return {
       menu: [
         { text: 'Home', link: '#' },
-        { text: 'Wedding Party', link: 'about' },
+        { text: 'Wedding Party', link: 'weddingParty' },
         { text: 'Travel', link: 'travel' },
         { text: 'Registry', link: 'registry' },
         { text: 'Gallery', link: 'gallery' },
-        { text: 'RSVP', link: 'contact' },
+        { text: 'RSVP', link: 'rsvp' },
         { text: 'FAQ', link: 'faq' },
       ],
     }
