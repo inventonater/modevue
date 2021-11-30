@@ -6,7 +6,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: '%s - ModeVue',
+    titleTemplate: 'nate❤christie - %s',
     title: 'Home',
     htmlAttrs: {
       lang: 'en',

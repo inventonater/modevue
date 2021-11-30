@@ -10,26 +10,17 @@
               <v-list two-line class="transparent">
                 <v-list-item>
                   <v-list-item-icon>
-                    <v-icon color="primary"> mdi-map-marker </v-icon>
-                  </v-list-item-icon>
-
-                  <v-list-item-content>
-                    <v-list-item-title>ADDRESS</v-list-item-title>
-                    <v-list-item-subtitle
-                      >205 NE Northlake Way #6855<br />Seattle, WA
-                      98105</v-list-item-subtitle
-                    >
-                  </v-list-item-content>
-                </v-list-item>
-
-                <v-list-item>
-                  <v-list-item-icon>
                     <v-icon color="primary"> mdi-clock </v-icon>
                   </v-list-item-icon>
                   <v-list-item-content>
-                    <v-list-item-title> FRIDAY May 27th </v-list-item-title>
+                    <v-list-item-title>
+                      Friday May 27th @ 6pm
+                    </v-list-item-title>
+                    Rehearsal Dinner
                     <v-list-item-subtitle>
-                      Rehearsal Dinner
+                      Optimism Brewing Company<br />
+                      1158 Broadway<br />
+                      Seattle, WA 98122
                     </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
@@ -39,9 +30,14 @@
                     <v-icon color="primary"> mdi-clock </v-icon>
                   </v-list-item-icon>
                   <v-list-item-content>
-                    <v-list-item-title> SATURDAY May 28th </v-list-item-title>
+                    <v-list-item-title>
+                      Saturday, May 28th @ 5pm
+                    </v-list-item-title>
+                    Ceremony & Reception
                     <v-list-item-subtitle>
-                      Ceremony & Reception
+                      The MV Skansonia<br />
+                      205 NE Northlake Way #6855 <br />
+                      Seattle, WA 98105
                     </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
