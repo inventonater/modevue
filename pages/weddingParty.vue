@@ -153,7 +153,7 @@ export default {
           position: 'Maid of Honor',
           phone: '+1 (987) 5894684',
           email: 'fiona@example.com',
-          photo: 'person-2.jpg',
+          photo: 'yoshi.jpg',
           bio: '',
         },
         {
@@ -186,7 +186,7 @@ export default {
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'sebastian@example.com',
-          photo: 'person-5.jpg',
+          photo: 'hultgren.jpg',
           bio: '',
         },
 
@@ -204,7 +204,7 @@ export default {
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'amelia@example.com',
-          photo: 'person-4.jpg',
+          photo: 'faal.jpg',
           bio: '',
         },
         {
@@ -220,7 +220,7 @@ export default {
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'bernadette@example.com',
-          photo: 'person-8.jpg',
+          photo: 'espinoza.jpg',
           bio: '',
         },
         {
@@ -236,7 +236,7 @@ export default {
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'christian@example.com',
-          photo: 'person-7.jpg',
+          photo: 'bali.jpg',
           bio: '',
         },
         {
@@ -252,7 +252,7 @@ export default {
           position: 'Bridesmaid',
           phone: '+1 (987) 6982456',
           email: 'audrey@example.com',
-          photo: 'person-6.jpg',
+          photo: 'glenn.jpg',
           bio: '',
         },
         {
