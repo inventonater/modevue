@@ -252,6 +252,14 @@ export default {
           bio: '',
         },
         {
+          name: 'Antonio Perez',
+          position: 'Groomsman',
+          phone: '+1 (987) 1625346',
+          email: 'john@example.com',
+          photo: 'perez.jpg',
+          bio: '',
+        },
+        {
           name: 'Michael Walker',
           position: 'Groomsman',
           phone: '+1 (987) 1625346',
