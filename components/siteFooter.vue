@@ -50,7 +50,7 @@ export default {
         { text: 'Travel', link: 'travel' },
         { text: 'Registry', link: 'registry' },
         { text: 'Gallery', link: 'gallery' },
-        { text: 'FAQ', link: 'faq' },
+        // { text: 'FAQ', link: 'faq' },
       ],
     }
   },

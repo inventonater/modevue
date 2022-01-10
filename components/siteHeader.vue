@@ -131,11 +131,11 @@ export default {
           title: 'Gallery',
           to: '/gallery',
         },
-        {
-          icon: 'mdi-tools',
-          title: 'FAQs',
-          to: '/faq',
-        },
+        // {
+        //   icon: 'mdi-tools',
+        //   title: 'FAQs',
+        //   to: '/faq',
+        // },
       ],
     }
   },

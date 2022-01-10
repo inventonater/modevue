@@ -4,7 +4,7 @@
       <v-col cols="12">
         <SectionsHero />
         <SectionsIntro />
-        <SectionsSafety />
+        <!--        <SectionsSafety />-->
       </v-col>
     </v-row>
   </section>
