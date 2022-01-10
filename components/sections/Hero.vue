@@ -18,9 +18,13 @@
         <v-container fill-height>
           <div style="max-width: 600px">
             <div class="text-md-h2 mb-3 text-sm-h3 text-h5 font-weight-black">
-              {{ carousel.heading.toUpperCase() }}
+              Nate & Christie
+              <!--              {{ carousel.heading.toUpperCase() }}-->
             </div>
-            <p class="mb-5">{{ carousel.subHeading }}</p>
+            <p class="mb-5">
+              are getting married :)
+              <!--              {{ carousel.subHeading }}-->
+            </p>
             <v-btn
               :x-large="$vuetify.breakpoint.smAndUp"
               href="/rsvp"
@@ -31,11 +35,10 @@
             <v-btn
               :x-large="$vuetify.breakpoint.smAndUp"
               text
-              href="/weddingParty"
+              href="/travel"
               class="my-3"
               outlined
-              ><v-icon left large color="primary">mdi-play</v-icon>Wedding
-              party</v-btn
+              ><v-icon left large color="primary">mdi-play</v-icon>Travel</v-btn
             >
           </div>
         </v-container>

@@ -4,7 +4,8 @@
       <v-col cols="12">
         <SectionsHeroAlt :hero-alt="heroAlt" />
 
-        <v-container>
+        <v-container
+          >s
           <v-row>
             <div class="pa-lg-16 pa-md-10 px-4 py-16">
               <h3

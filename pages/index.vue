@@ -4,10 +4,7 @@
       <v-col cols="12">
         <SectionsHero />
         <SectionsIntro />
-        <SectionsCalloutBlock />
-        <SectionsFeatures />
-        <!--<SectionsBrands />-->
-        <!--<SectionsTestimonials />-->
+        <SectionsSafety />
       </v-col>
     </v-row>
   </section>

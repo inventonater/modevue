@@ -15,6 +15,12 @@
           Seattle, WA
           <!--<strong>Vue.js</strong>-->
         </p>
+        <v-btn
+          :x-large="$vuetify.breakpoint.smAndUp"
+          href="/rsvp"
+          class="my-3 primary"
+          >RSVP</v-btn
+        >
       </v-responsive>
 
       <!--      <v-row class="pt-12">-->
