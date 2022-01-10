@@ -107,6 +107,11 @@ export default {
           to: '/',
         },
         {
+          icon: 'mdi-contacts',
+          title: 'RSVP',
+          to: '/rsvp',
+        },
+        {
           icon: 'mdi-account',
           title: 'Wedding Party',
           to: '/weddingParty',
@@ -125,11 +130,6 @@ export default {
           icon: 'mdi-folder-image',
           title: 'Gallery',
           to: '/gallery',
-        },
-        {
-          icon: 'mdi-contacts',
-          title: 'RSVP',
-          to: '/rsvp',
         },
         {
           icon: 'mdi-tools',

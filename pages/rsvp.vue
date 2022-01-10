@@ -22,6 +22,9 @@
                       1158 Broadway<br />
                       Seattle, WA 98122
                     </v-list-item-subtitle>
+                    <v-list-item-subtitle class="pt-1">
+                      <i>Children welcome!</i>
+                    </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
 
@@ -39,20 +42,23 @@
                       205 NE Northlake Way #6855 <br />
                       Seattle, WA 98105
                     </v-list-item-subtitle>
+                    <v-list-item-subtitle class="pt-1">
+                      <i>
+                        Saturday will be an adult-only event.<br />
+                        Please reach out for babysitting details.<br />
+                      </i>
+                    </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
               </v-list>
             </v-col>
             <v-col md="7" cols="12">
-              <!--
               <div class="text-h4 font-weight-black mb-8">
-                Let us know you are coming!
+                We can’t wait to celebrate with you!
               </div>
               <p class="mb-10">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Complete the following Google Form to let us know you are coming
               </p>
--->
               <rsvpGoogleForm />
             </v-col>
           </v-row>

@@ -41,8 +41,8 @@
           <v-col cols="12" md="6" align-self="center">
             <v-img
               max-height="800"
-              src="pexels-rfstudio-3810792.jpg"
-              lazy-src="pexels-rfstudio-3810792.jpg"
+              src="friends/aschenbachFam.jpg"
+              lazy-src="friends/aschenbachFam.jpg"
             >
             </v-img>
           </v-col>
@@ -57,14 +57,13 @@
                 <!--                Lorem ipsum dolor sit amet, consectetur adipisicing elit-->
               </h3>
               <p>
-                Being a US Navy Family, they moved around a bit and lived in
-                Hawaii, California, Virginia, Japan, and finally Washington.
-                Growing up, they’ve enjoyed taking family road trips around the
-                country, and visiting local casinos. Michael (father) loves
-                music and plays guitar, and is a big UFC fan. Junita (mother)
-                loves cooking and baking, and spending time with grand- nieces
-                and nephews. Janelle (sister) is the life of the party, and is
-                always down for a fun board game.
+                Scott (father) and Judy (mother) Aschenbach met in Madison,
+                Wisconsin and moved to Ann Arbor, Michigan when Nate was still
+                young. Nathan has three little sisters: Krista, Kerry, and Ali.
+                Krista has three children with her husband Christian. Kerry
+                lives with her husband Perry in Batavia, IL and Ali with her
+                husband Jordan in Saint Paul, MN. There are also a great many
+                dogs and cats.
               </p>
             </div>
           </v-col>
