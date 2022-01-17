@@ -5,16 +5,16 @@
         <v-avatar color="primary" size="70" class="mb-8">
           <v-icon x-large dark>mdi-ring</v-icon>
         </v-avatar>
-        <h2 class="text-h4 text-md-h3 text-center font-weight-black mb-7">
-          Join us for our wedding
+        <h2 class="text-h4 text-md-h3 text-center mb-7">
+          It's going down...
         </h2>
-        <p class="title font-weight-light">
-          Saturday May 28th at 5pm<br />
-          The MV Skansonia<br />
-          205 NE Northlake Way<br />
-          Seattle, WA
-          <!--<strong>Vue.js</strong>-->
-        </p>
+        <h2 class="text-h4 text-md-h3 text-center font-weight-black mb-7"> Saturday May 28th </h2>
+        <div class="title font-weight-light">
+          <p class="mb-0">The MV Skansonia</p>
+          <p class="mb-0">205 NE Northlake Way</p>
+          <p class="mb-0">Seattle, WA</p>
+        </div>
+
         <v-btn
           :x-large="$vuetify.breakpoint.smAndUp"
           href="/rsvp"
