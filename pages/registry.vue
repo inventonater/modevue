@@ -11,7 +11,7 @@
         <p> In this happiest moment of our lives your presence is absolutely more than enough, particularly given the
           additional complexities of travel these days. </p>
         <p> However if we can't talk you out of it and you are compelled to honor us with a gift, a simple contribution
-          to our home improvement projects would be cherished. </p>
+          to our home improvement projects would be wonderful. </p>
         <p> To make sure this a safe and convenient option, we have setup a Venmo link and would cherish any
           contributions sent privately there. </p>
         <p> We are grateful and thankful for your understanding. </p>

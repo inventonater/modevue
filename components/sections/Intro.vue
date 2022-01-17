@@ -16,7 +16,6 @@
         </div>
 
         <v-btn
-
           :x-large="$vuetify.breakpoint.smAndUp"
           href="/rsvp"
           class="my-16 primary text-h4 "
