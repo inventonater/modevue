@@ -54,10 +54,10 @@
             </v-col>
             <v-col md="7" cols="12">
               <div class="text-h4 font-weight-black mb-8">
-                We can’t wait to celebrate with you!
+                Can't wait to hear from you!
               </div>
               <p class="mb-10">
-                Complete the following Google Form to let us know you are coming
+                Please complete the following Google Form below
               </p>
               <rsvpGoogleForm />
             </v-col>
