@@ -42,12 +42,12 @@
         <v-container class='font-weight-thin text-center'>
           <v-row class='my-2'>
             <v-col md='6' cols='12'>
-              <h3 class='text-h5'> Rehearsal Dinner Venue</h3>
+              <h3 class='text-h5'> Rehearsal Reception Venue</h3>
               <p class='mb-0'> Friday, May 27th @ 6pm </p>
               <p>Optimism Brewing Company</p>
             </v-col>
             <v-col md='6' cols='12'>
-              <h3 class='text-h5 font-weight-thin text-center'> Ceremony & Reception Venue</h3>
+              <h3 class='text-h5'> Ceremony & Reception Venue</h3>
               <p class='mb-0'> Saturday, May 28th @ 5pm </p>
               <p>The MV Skansonia</p>
             </v-col>

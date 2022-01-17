@@ -44,13 +44,13 @@ export default {
   data() {
     return {
       menu: [
-        { text: 'Home', link: '#' },
-        { text: 'RSVP', link: 'rsvp' },
-        { text: 'Wedding Party', link: 'weddingParty' },
-        { text: 'Travel', link: 'travel' },
-        { text: 'Registry', link: 'registry' },
-        { text: 'Gallery', link: 'gallery' },
-        // { text: 'FAQ', link: 'faq' },
+        { text: 'Home', link: '/#' },
+        { text: 'RSVP', link: '/rsvp' },
+        { text: 'Wedding Party', link: '/weddingParty' },
+        { text: 'Travel', link: '/travel' },
+        { text: 'Registry', link: '/registry' },
+        { text: 'Gallery', link: '/gallery' },
+        // { text: 'FAQ', link: '/faq' },
       ],
     }
   },
